@@ -2,10 +2,8 @@
 
 
 
-  <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=qVaIEM80xQU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
-Please check out the video for the demonstration of the app
+ <div align="left">
+      <a href="[https://www.youtube.com/watch?v=5yLzZikS15k](https://youtu.be/qVaIEM80xQU)">
+         <img src="https://img.youtube.com/vi/5yLzZikS15k/0.jpg" style="width:100%;">
+      </a>
+</div>
